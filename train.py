@@ -6,7 +6,6 @@ import random
 from qnetwork import QNetwork
 from relaybuffer import ReplayBuffer
 
-
 def train_dqn(
     env,
     device,
